@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.item {
+  width: 40vw;
+  margin: auto;
+}
+
+.preview {
+  width: 100%;
+}
